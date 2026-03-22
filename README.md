@@ -1,4 +1,4 @@
-# kagglenotebook
+# Fine-tune the Gemma 2 2B-IT model
 # GRPO Training on ARC Science Questions with Gemma 2
 
 This repository demonstrates how to fine-tune the **Gemma 2 2B-IT** model to solve grade-school science questions using **Group Relative Policy Optimization (GRPO)**.
